@@ -16,5 +16,28 @@
       "doy": "ΙΖ ΑΘΗΝΩΝ",
       "registeredAt": "2019-08-23T08:17:03+03:00"
     }
+  ],
+  "contacts":[
+    {
+      "id": 1,
+      "customerId": 1,
+      "firstName": "Μαρία",
+      "lastName": "Μαρκοπούλου",
+      "registeredAt": "2019-08-22T15:00:00+03:00"
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "firstName": "Κωνσταντίνος",
+      "lastName": "Κατακουζινός",
+      "registeredAt": "2019-08-22T15:17:02+03:00"
+    },
+    {
+      "id": 3,
+      "customerId": 2,
+      "firstName": "Ελένη",
+      "lastName": "Βλαχάκη",
+      "registeredAt": "2019-08-23T10:13:09+03:00"
+    }
   ]
 }
